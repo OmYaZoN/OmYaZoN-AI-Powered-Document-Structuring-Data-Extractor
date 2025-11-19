@@ -1,2 +1,10 @@
-.env
-venv
+# Virtual environments
+venv/
+
+
+
+
+# Environments
+*.env
+
+
